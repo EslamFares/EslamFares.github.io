@@ -44029,7 +44029,7 @@ a.eZ(q,s)},
 dP(a){return!0}}
 A.Gl.prototype={
 a6(){var s=null
-return new A.a1X(A.m1("assets/images/personal/my_showcase_style.png",s,s,s),s,s)}}
+return new A.a1X(A.m1("assets/images/personal/logo/eslam_suite_croped_trans.png",s,s,s),s,s)}}
 A.a1X.prototype={
 ap(){var s,r,q,p=this,o=null
 p.aG()
