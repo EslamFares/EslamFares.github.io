@@ -5,12 +5,15 @@
         "statusBar.background": "#07eb93",
         "statusBar.foreground": "#15202b",
         "statusBarItem.hoverBackground": "#06b974",
-        "statusBarItem.remoteBackground": "#07eb93",
+        "statusBarItem.remoteBackground": "#c064fa",
         "statusBarItem.remoteForeground": "#15202b",
         "titleBar.activeBackground": "#07eb93",
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#07eb9399",
-        "titleBar.inactiveForeground": "#15202b99"
+        "titleBar.inactiveForeground": "#15202b99",
+        "commandCenter.foreground": "#15202b",
+        "statusBar.debuggingBackground": "#07eb93",
+        "statusBar.debuggingForeground": "#15202b"
     },
     "peacock.color": "#07eb93"
 }
