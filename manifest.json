@@ -1,11 +1,11 @@
 {
-    "name": "Fares Portfolio",
-    "short_name": "Fares Portfolio",
+    "name": "Eslam Elazab Portfolio",
+    "short_name": "Eslam Elazab Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
-    "description": "Eslam Fares Portfolio",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

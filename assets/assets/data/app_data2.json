@@ -1,0 +1,851 @@
+{
+  "isUpdate": true,
+  "profile": {
+    "name": "Eslam Elazab",
+    "mail": "eslamelazab111@gmail.com",
+    "cvLink": "https://drive.google.com/drive/folders/1ieDCsK-ZJAE7i1ho_f1JwrqhsNrX0ZKl",
+    "whatsappUrl": "https://wa.me/+201063735601",
+    "status": "STATUS: AVAILABLE FOR WORK"
+  },
+  "cardInfo": {
+    "name": "Eslam Elazab",
+    "desJob": "Flutter Developer\n ",
+    "exp": 4,
+    "projectsCount": 37,
+    "clientsSatPercent": 100.0
+  },
+  "hero": {
+    "greeting": "Hi, I am",
+    "name": "Eslam Elazab",
+    "title": "Flutter Developer",
+    "description": "Flutter Developer with practical experience in building fast, scalable, and responsive mobile applications. Proficient in clean architecture, advanced state management, and writing testable, maintainable code focused on delivering real business value.",
+    "ctaText": "Explore My Work",
+    "resumeUrl": "https://drive.google.com/drive/folders/1ieDCsK-ZJAE7i1ho_f1JwrqhsNrX0ZKl",
+    "photoUrl": ""
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/eslamelazab",
+    "github": "https://github.com/EslamFares",
+    "facebook": "",
+    "youtube": "",
+    "instagram": "",
+    "whatsapp": "https://wa.me/+201063735601",
+    "mail": "mailto:eslamelazab111@gmail.com"
+  },
+  "contact": {
+    "email": "eslamelazab111@gmail.com",
+    "phone": "+201063735601",
+    "location": "Cairo, Egypt",
+    "availability": "Open to opportunities"
+  },
+  "cta": {
+    "headline": "Got an idea? Let’s build something that actually works.",
+    "subtext": "If you have an idea or project in mind, I’d be happy to discuss and help bring it to life.",
+    "primaryButtonText": "Start a Project",
+    "primaryButtonLink": "mailto:eslamelazab111@gmail.com",
+    "secondaryButtonText": "View Projects",
+    "footerText": "© 2026 Eslam Elazab"
+  },
+  "projects": [
+    {
+      "id": "",
+      "name": "Takallam",
+      "description": "        An educational mobile game designed to help children learn Arabic pronunciation and writing through interactive experiences.\n        Currently used in over 13 international schools across the UAE and the Gulf region..\n         The features:\n          - Developed engaging mini-games to teach letter pronunciation, writing, and usage in context\n          - Integrated video content and voice recording for interactive feedback\n          - Implemented a teacher control system to unlock new letters based on student progress\n          - Built a progressive learning flow with level-based letter unlocking\n          - Supported both visual and auditory learning styles for young children\n\n        ",
+      "shortDescription": "Interactive Arabic Learning Game for Children",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/takallam/8.png"
+      ],
+      "isLandscape": true,
+      "links": {
+        "ios": "https://apps.apple.com/us/app/takallam/id1555334569",
+        "google": "https://play.google.com/store/apps/details?id=com.takalam.takallam&hl=en"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Audio",
+        "Video",
+        "Realtime"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Agroptics",
+      "description": "Agroptics - Precision Irrigation at Your Fingertips\nManage your farm smarter with Agroptics, the all-in-one precision agriculture platform that combines satellite technology, irrigation management, and agronomic intelligence to help you maximize crop productivity while conserving water.\nUsing advanced satellite imagery and crop analytics, Agroptics delivers field-specific insights, accurate irrigation recommendations, and crop performance monitoring, enabling you to make confident, data-driven decisions throughout the growing season.\n\nKey Features\n💧 Smart Irrigation Scheduling & 7-Day Forecast\nOptimize every irrigation event with field-specific recommendations based on crop water use, weather conditions, and satellite observations. Plan ahead with a detailed 7-day irrigation forecast to improve water management and reduce unnecessary irrigation.\n🛰️ Advanced Field Monitoring\nMonitor crop growth and field performance using high-resolution satellite imagery and vegetation indices. Track crop health, canopy development, water stress, biomass, chlorophyll, and overall field variability throughout the season.\n🌱 Precision Crop Management\nGain actionable insights to support agronomic decisions, including crop development monitoring, nutrient management, field variability analysis, and site-specific management recommendations to improve productivity and input efficiency.\n📍 Interactive Field Maps\nAccess easy-to-use interactive maps that visualize irrigation status, crop health, vegetation vigor, evapotranspiration, and other key agronomic indicators for every field in your operation.\n✅ Irrigation Logging & Performance Tracking\nRecord actual irrigation events directly within the app. Agroptics automatically compares your irrigation records with its recommended schedule to calculate irrigation compliance, helping you measure water-use efficiency and continuously improve irrigation performance.\n📈 Data-Driven Decision Support\nTransform satellite data into practical recommendations that help you:\nReduce water use and over-irrigation\nImprove irrigation efficiency\nIncrease crop productivity\nDetect field variability early\nMonitor crop performance throughout the season\nSupport sustainable farming practices\n\nWhether you manage a single farm, multiple operations, an irrigation district, or a commercial agricultural enterprise, Agroptics provides the insights you need to make smarter decisions every day.\nDownload Agroptics today and experience the future of precision agriculture with satellite-powered irrigation management, crop monitoring, and actionable field intelligence.\n        ",
+      "shortDescription": "Agroptics - Precision Irrigation at Your Fingertips Manage your farm smarter with Agroptics, the all-in-one precision agriculture platform that combines satellite technology, irrigation management, and agronomic intelligence to help you maximize crop productivity while conserving water.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/1.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/2.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/3.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/4.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/5.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/6.jpg",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/agroptics/7.jpg"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/us/app/agroptics/id6763900329",
+        "google": "https://play.google.com/store/apps/details?id=com.gt.agroptics&hl=en"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Map",
+        "Local Auth"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Diwan Misr",
+      "description": "        An all-in-one platform providing a structured guide for Egyptian public services, including Education, Traffic, and Civil Status.\n         The app streamlines bureaucratic procedures by centralizing official requirements and providing direct access to public service portals.\n          It was developed with a high focus on legal compliance and transparency to meet strict Google Play Store standards.\n         \n         FEATURES:\n         - Unified Hub: Categorizes diverse public services into a single, user-friendly interface.\n         - Resource Linking: Direct access to official portals via secure, policy-compliant deep-linking.\n         - Requirements Guide: Comprehensive database for procedural steps and required administrative documents.\n         -Policy Compliance: Built with strict adherence to Google’s transparency and \"Government Apps\" standards.\n\n        ",
+      "shortDescription": "A comprehensive digital hub simplifying access to Egyptian administrative and public services.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/diwan_misr/8.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/br/app/diwan-misr/id6769915239?l=en-GB",
+        "google": "https://play.google.com/store/apps/details?id=com.qimasoft.eldiwanhttps://play.google.com/store/apps/details?id=com.qimasoft.eldiwan"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Map",
+        "Local Auth",
+        "SignalR"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Wasel Car Services",
+      "description": "        A specialized digital platform designed to bridge the gap between car owners and maintenance service centers.\n         The application streamlines the process of finding reliable automotive services by providing real-time data on spare parts availability and pricing, ensuring a transparent and efficient user experience.\n         \n         FEATURES:\n          - Geolocation & Smart Navigation: Identifies the nearest service centers based on the user's current location\n            with seamless Google Maps integration for precise directions.\n          - Real-time Inventory Tracking: Enables users to browse the available stock of spare parts and view up-to-date pricing before visiting the center.\n          - Direct Communication Channels: Provides integrated contact methods to reach service centers or technicians directly for inquiries and bookings.\n          - Price Transparency & Comparison: Empowers users to compare costs across different centers to save time and ensure cost-effective maintenance.\n\n        ",
+      "shortDescription": "A comprehensive application connecting car owners with service centers, featuring real-time spare parts inventory and pricing tracking.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/logo.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/wasel_car/8.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/br/app/wasel-car-services/id6771120038?l=en-GB",
+        "google": "https://play.google.com/store/apps/details?id=com.qimasoft.wasel",
+        "video": "https://www.youtube.com/watch?v=jLaOx8e3898"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Map",
+        "Local Auth",
+        "SignalR"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Pivot",
+      "description": "        Developed a smart agricultural app enabling engineers and workers to control pivot irrigation systems.\n       - Tracked crop lifecycle and scheduled fertilization and pest control operations.\n       - Integrated real-time weather data and water meter monitoring.\n       - Implemented an alert system for delayed irrigation or harvest proximity.\n\n\n        ",
+      "shortDescription": "Developed a smart agricultural app enabling engineers and workers to control pivot irrigation systems.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/8.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/pivot/9.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/us/app/pivot-management/id6473525901"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "DHB App",
+      "description": "        A mobile application providing real-time updates on gold and currency prices.\n       - Live tracking of gold and currency prices with instant notifications on price changes.\n       - Detailed bullion pricing with filters by size and manufacturer, including buying and selling rates.\n       - Personal savings management, users can add their gold savings, track current value, purchase price,\n        and calculate profit or loss locally on the device without data sharing.\n       - Secure local storage, ensuring user privacy and data protectio\n\n\n        ",
+      "shortDescription": "A mobile application providing real-time updates on gold and currency prices.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/dhb_app/6.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.gold_dollar_souq",
+        "git": "https://github.com/EslamFares/Readme/blob/master/DHB.md"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Akarcom",
+      "description": "       A specialized real estate application covering the entire Saudi Arabia, providing all real estate services with ease \n       by directly connecting clients with service providers.\n       - Direct communication with service providers\n       - View all property details with photos and videos.\n       - Quick and smooth access to advertisements\n       - Verification of advertiser accounts.\n       - Flexible addition and management of listings.\n       - The application provides a direct chat system with advertisers\n        ",
+      "shortDescription": "A specialized real estate application covering the entire Saudi Arabia, providing all real estate services with ease by directly connecting clients with service providers",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/akar_com/8.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/sa/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%83%D9%88%D9%85-aqarcom/id1568547797?platform=iphone",
+        "google": "https://play.google.com/store/apps/details?id=com.entlq.aqarcom&hl=en_US&gl=US",
+        "huawei": "https://appgallery.huawei.com/app/C107892651"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Book Hub",
+      "description": "       A mobile app offering a diverse collection of books across various fields.\n       - Read and preview books with summaries available inside the app.\n       - Access a wide range of free books directly within the app.\n       - Download books for offline reading without an internet connection.\n       - Redirect to external websites for purchasing paid books.\n       - Receive notifications for new book releases and search for specific genres or titles.\n\n\n        ",
+      "shortDescription": "A mobile app offering a diverse collection of books across various fields.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/8.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/book_hub/9.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.book_hub",
+        "git": "https://github.com/EslamFares/Book-Hub-Readme/blob/master/README.md"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Ayah Every Day",
+      "description": "         \nStay spiritually connected with a daily verse from the Holy Quran. \"Ayah Every Day\" brings you wisdom, peace, and guidance, one verse at a time.\n       - Get a new Quranic verse every day with translation.\n       - Elegant and minimal design for a peaceful reading experience.\n       - Supports multiple languages.\n       - Beautiful Arabic script with clear typography.\n       - Optional daily reminders to never miss an ayah.\n       - Share verses easily with friends and family.\n       - Works offline - stay inspired anytime, anywhere.\n\n        ",
+      "shortDescription": "Read a verse every day. An application that sends a notification to read any day and there is an easy explanation",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/ayah_every_day/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/ayah_every_day/1.png"
+      ],
+      "isLandscape": true,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.ayaheveryday&hl=en&gl=US"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "local storage",
+        "sqlite"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Gate Plus",
+      "description": "        A specialized job platform designed for medical professionals seeking opportunities in Switzerland and Germany.\n        The app provides a streamlined and secure experience tailored to the needs of healthcare workers.\n       - Medical job listings with detailed descriptions and filters by specialty and location.\n       - Secure document upload system for medical credentials and certificates.\n       - Real-time status updates for document verification and application tracking.\n       - User-friendly interface optimized for multilingual users in the medical field.\n\n        ",
+      "shortDescription": "A specialized job platform designed for medical professionals seeking opportunities in Switzerland and Germany. The app provides a streamlined and secure experience tailored to the needs of healthcare workers.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/gate_plus/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/gate_plus/1.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/us/app/gate-plus/id6474971005",
+        "google": "https://play.google.com/store/apps/details?id=com.gatePlusApp&hl=en&pli=1"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Tasbih App",
+      "description": "        A well-received application with over 50k downloads and a 4.9 rating, designed for seeking forgiveness and spiritual mindfulness.\n       - Digital tasbih counter to track the number of dhikr (remembrance) recitations.\n       - Monthly statistics to monitor progress and consistency.\n       - A large collection of daily adhkar (supplications) for different occasions.\n       - Reminder notifications to encourage daily practice and spiritual engagement.\n\n\n        ",
+      "shortDescription": "A well-received application with over 50k downloads and a 4.9 rating, designed for seeking forgiveness and spiritual mindfulness.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/tasbih/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/tasbih/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/tasbih/2.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.tasbih"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "local storage",
+        "sqlite"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "Umrah Gift",
+      "description": "        A mobile application that allows users to delegate someone to perform Umrah on their behalf.\n        The app offers a set of features that enhance the spiritual and interactive experience.\n       - Live chat and video between the user and the service provider.\n       - Live streaming of Al-Haram.\n       - Accurate prayer times with location-based notifications.\n       - Clean and intuitive user interface with optimized performance.\n        ",
+      "shortDescription": "A mobile app that lets users delegate someone to perform Umrah on their behalf, with features to enrich the spiritual and interactive experience.",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/5.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/6.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/7.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/umrah_gift/8.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/sa/app/umrah-gift/id6478862288"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "WhatsApp Direct Chat",
+      "description": "        Quickly start a WhatsApp chat with any number without saving it to your contacts.\n         Perfect for one-time messages or business use.\n       - Open a direct chat with anyone without saving their phone number.\n       - Optionally pre-fill the message before opening the chat.\n       - Supports Dark Mode for better night-time use.\n       - Multi-language support.\n       - Send messages to phone numbers in any country worldwide.\n       - Just enter the phone number, select the country code, and send instantly.\n\n        ",
+      "shortDescription": "Send Direct message to WhatsApp without saving contacts",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/whatsapp_direct_chat/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/whatsapp_direct_chat/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/whatsapp_direct_chat/2.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.direct_chat&hl=en&gl=US"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "X5 Smart",
+      "description": "        A mobile application that enables users to access the latest high-quality surveillance cameras and specialized security services in Saudi Arabia.\n       - A wide range of high-resolution cameras with night vision support.\n       - Detailed descriptions to help users choose the right cameras.\n       - Scheduling of installation and maintenance services based on location.\n       - A simple and intuitive user interface.\n\n\n        ",
+      "shortDescription": "A mobile application that enables users to access the latest high-quality surveillance cameras and specialized security services in Saudi Arabia",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/2.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/3.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/4.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/x5_smart/5.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "ios": "https://apps.apple.com/sa/app/x5smart/id6477860968"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "order": 0
+    },
+    {
+      "id": "",
+      "name": "XO Game",
+      "description": "        A mobile game allowing users to play Tic-Tac-Toe against a friend or the device, featuring:\n       - Adjustable board size, enabling players to customize the grid dimensions.\n       - Multiple difficulty levels when playing against the AI.\n       - Detailed statistics tracking wins and losses.\n       - Clean and user-friendly interface for enhanced gameplay experience.\n\n\n        ",
+      "shortDescription": "A mobile game allowing users to play Tic-Tac-Toe against a friend or the device,",
+      "image": "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/xo/logo.png",
+      "images": [
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/xo/1.png",
+        "https://raw.githubusercontent.com/EslamFares/Projects_images/refs/heads/main/xo/2.png"
+      ],
+      "isLandscape": false,
+      "links": {
+        "google": "https://play.google.com/store/apps/details?id=com.eslamfares.xogame&pcampaignid=web_share"
+      },
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "local storage",
+        "sqlite"
+      ],
+      "order": 0
+    }
+  ],
+  "plugins": [
+    {
+      "name": "Log Pro",
+      "description": "log_pro is a custom logging package for Flutter that simplifies tracking and debugging app behavior. It supports various log levels, such as debug, info, warning, and error, allowing developers to categorize and filter logs effectively.",
+      "image": "assets/icons/github.svg",
+      "link": "https://pub.dev/packages/log_pro",
+      "numDetails": {
+        "likes": "98%",
+        "Pub Points": "140/140",
+        "POPULARITY": "95%"
+      },
+      "extention": "PUB.DEV",
+      "commend": "flutter pub add log_pro",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Debug",
+        "Open Source"
+      ],
+      "order": 0
+    },
+    {
+      "name": "LogPro Flutter",
+      "description": "Log Pro Helper is a VS Code extension that simplifies adding logPro statements to your Flutter project.",
+      "image": "assets/icons/github.svg",
+      "link": "https://marketplace.visualstudio.com/items?itemName=EslamFares.logpro-flutter",
+      "numDetails": {
+        "stars": "3",
+        "installs": "398"
+      },
+      "extention": "marketplace.visualstudio.com",
+      "commend": "Install this extension from the VS Code marketplace",
+      "technologies": [
+        "Flutter",
+        "VS Code"
+      ],
+      "order": 1
+    },
+    {
+      "name": "Logger Helper",
+      "description": "Logger Helper is a VS Code extension designed to make logging faster and more customizable.\nThis extension lets you insert logging statements quickly with shortcuts.\n✨ Features\nInsert logging statements with simple keyboard shortcuts.\nFully customizable logger methods (e.g., logger.i, logger.e, log, print, etc.).\nWorks with any programming language — [just change the logger method].\nDefine your own shortcuts per log level (Info, Trace, Warn, Error, etc.).\nQuick setup in VS Code settings.\n",
+      "image": "assets/icons/github.svg",
+      "link": "https://marketplace.visualstudio.com/items?itemName=EslamFares.logger-helper",
+      "numDetails": {
+        "stars": "1",
+        "installs": "5"
+      },
+      "extention": "marketplace.visualstudio.com",
+      "commend": "Install this extension from the VS Code marketplace",
+      "technologies": [
+        "Flutter",
+        "VS Code"
+      ],
+      "order": 1
+    },
+    {
+      "name": "Flutter JSON Auto-Translator",
+      "description": "Auto-translate and sync Flutter localization JSON files from selected Dart strings. Supports both English and Arabic source text.",
+      "image": "assets/icons/github.svg",
+      "link": "https://marketplace.visualstudio.com/items?itemName=EslamFares.flutter-localization-json-translation-auto",
+      "numDetails": {
+        "stars": "1",
+        "installs": "3"
+      },
+      "extention": "marketplace.visualstudio.com",
+      "commend": "Install this extension from the VS Code marketplace",
+      "technologies": [
+        "Flutter",
+        "VS Code"
+      ],
+      "order": 1
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Flutter Developer",
+      "company": "Gulf Terminal Company",
+      "startDate": "10/2024",
+      "endDate": "Present",
+      "image": "",
+      "location": "Mansoura, Egypt",
+      "workType": "On-site",
+      "responsibilities": [
+        "Developed cross-platform apps using Flutter and Dart",
+        "Collaborated with designers and product managers in an Azure environment"
+      ],
+      "order": 0
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Qima Soft Company",
+      "startDate": "08/2025",
+      "endDate": "Present",
+      "image": "",
+      "location": "Cairo, Egypt",
+      "workType": "Remote",
+      "responsibilities": [],
+      "order": 0
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Code7x Company",
+      "startDate": "06/2024",
+      "endDate": "10/2024",
+      "image": "",
+      "location": "Mansoura, Egypt",
+      "workType": "On-site",
+      "responsibilities": [],
+      "order": 0
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Blush Bird Company",
+      "startDate": "10/2023",
+      "endDate": "06/2024",
+      "image": "",
+      "location": "Cairo, Egypt",
+      "workType": "Remote",
+      "responsibilities": [],
+      "order": 0
+    },
+    {
+      "title": "Engineer Officer, Head of IT Department",
+      "company": "Aswan Military Hospital",
+      "startDate": "12/2022",
+      "endDate": "04/2024",
+      "image": "",
+      "location": "Aswan, Egypt",
+      "workType": "On-site",
+      "responsibilities": [],
+      "order": 0
+    },
+    {
+      "title": "Junior Flutter Developer",
+      "company": "In Out Company",
+      "startDate": "07/2021",
+      "endDate": "03/2022",
+      "image": "",
+      "location": "Mansoura, Egypt",
+      "workType": "On-site",
+      "responsibilities": [],
+      "order": 0
+    },
+    {
+      "title": "Trainee Flutter Developer",
+      "company": "CCIC",
+      "startDate": "07/2020",
+      "endDate": "11/2020",
+      "image": "",
+      "location": "Mansoura, Egypt",
+      "workType": "Hybrid",
+      "responsibilities": [],
+      "order": 0
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor of Computers and Information Technology",
+      "institution": "Mansoura University",
+      "location": "Mansoura, Egypt",
+      "duration": "🎓 2021",
+      "description": "IT",
+      "link": "https://university.edu/",
+      "order": 0
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AI Hacks",
+      "organization": "Madarek Academy",
+      "date": "06 / 2026",
+      "skills": "focused on practical Al applications including prompt optimization and workflow automation.",
+      "credential": "https://drive.google.com/file/d/1L9MVD9-p-yRICeBo9zzd8C_D9mcYtVWi/view?usp=drive_link",
+      "order": 0
+    },
+    {
+      "name": "AI (Generate To Create)",
+      "organization": "Madarek Academy",
+      "date": "03 / 2026",
+      "skills": "focused on the practical use of Al in marketing content creation and design.",
+      "credential": "https://drive.google.com/file/d/1Lj_r84eeJAUnUQCZUwaAHLhjoZ3XJmzp/view?usp=drive_link",
+      "order": 1
+    },
+    {
+      "name": "What HR Actually Looks For in Candidates",
+      "organization": "Madarek Academy",
+      "date": "04 / 2026",
+      "skills": "a session on real hiring expectations common graduate mistakes and practical steps to improve employability.",
+      "credential": "https://drive.google.com/file/d/1xGFmWkxcGS4H0laUblObffpc8DL7xHin/view?usp=drive_link",
+      "order": 2
+    },
+    {
+      "name": "Mobile development",
+      "organization": "Developer Student Clubs Al-Azhar University",
+      "date": "12 / 2020",
+      "skills": "For active participation and successfully completing Introduction to mobile development course",
+      "credential": "https://drive.google.com/file/d/1sVagaFEeEjdHRui6HQkiSmXDdWn_S8zv/view?usp=drive_link",
+      "order": 3
+    },
+    {
+      "name": "Human Recources Essentials",
+      "organization": "American Chamber of Commerce in Egypt",
+      "date": "03 /2021",
+      "skills": "Human Recources Essentials",
+      "credential": "https://drive.google.com/file/d/1GhWlI4X4h83Pd4iLIdSGltynAivUuB6-/view?usp=drive_link",
+      "order": 4
+    },
+    {
+      "name": "Advanced Dart course of Flutter track",
+      "organization": "Developer Student Clubs Al-Azhar University",
+      "date": "02 /2021",
+      "skills": "For active participation and successfully completing Advanced Dart course of Flutter track course",
+      "credential": "https://drive.google.com/file/d/1DS8ab9dhcFgCX3kxMcVRGFhBYRH_75CL/view?usp=drive_link",
+      "order": 5
+    },
+    {
+      "name": "Flutter Payment",
+      "organization": "Udemy",
+      "date": "12 /2023",
+      "skills": "Flutter Payment Integration: Stripe, PayPal",
+      "credential": "https://drive.google.com/file/d/1mtVRGP15Y_k09SjWcgFdwmVBhhnVpitB/view?usp=drive_link",
+      "order": 6
+    },
+    {
+      "name": "Virtual Employability Skills Track",
+      "organization": "Aspire Training Solutions",
+      "date": "11 /2020",
+      "skills": "Employability Skills",
+      "credential": "https://drive.google.com/file/d/1loXRUsf81N2kG9Gq3Qc67MNsO-z9VsQN/view?usp=drive_link",
+      "order": 7
+    },
+    {
+      "name": "Flutter Training",
+      "organization": "InOut",
+      "date": "01 /2022",
+      "skills": "flutter",
+      "credential": "https://drive.google.com/file/d/1FyMY2-1QbwOJkUKou-PNszxFptiUiQCR/view?usp=drive_link",
+      "order": 8
+    },
+    {
+      "name": "Flutter Application Development",
+      "organization": "CCIC - Mansoura University",
+      "date": "11 /2020",
+      "skills": "flutter",
+      "credential": "https://drive.google.com/file/d/14-fEQmEo3NyEpiz_ohVZ2fl_KoxerkvM/view?usp=drive_link",
+      "order": 9
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flutter",
+      "category": "Mobile Development",
+      "proficiency": 5,
+      "order": 0
+    },
+    {
+      "name": "Dart",
+      "category": "Programming",
+      "proficiency": 5,
+      "order": 1
+    },
+    {
+      "name": "Firebase",
+      "category": "Backend",
+      "proficiency": 4,
+      "order": 2
+    },
+    {
+      "name": "REST API",
+      "category": "Web Services",
+      "proficiency": 4,
+      "order": 3
+    },
+    {
+      "name": "MERN Stack",
+      "category": "Web Development",
+      "proficiency": 4,
+      "order": 4
+    },
+    {
+      "name": "JavaScript",
+      "category": "Programming",
+      "proficiency": 4,
+      "order": 5
+    },
+    {
+      "name": "TypeScript",
+      "category": "Programming",
+      "proficiency": 3,
+      "order": 6
+    },
+    {
+      "name": "Python",
+      "category": "Programming",
+      "proficiency": 3,
+      "order": 7
+    },
+    {
+      "name": "Arduino",
+      "category": "IoT",
+      "proficiency": 4,
+      "order": 8
+    },
+    {
+      "name": "UI/UX Design",
+      "category": "Design",
+      "proficiency": 4,
+      "order": 9
+    },
+    {
+      "name": "Figma",
+      "category": "Design",
+      "proficiency": 4,
+      "order": 10
+    },
+    {
+      "name": "Git",
+      "category": "Version Control",
+      "proficiency": 4,
+      "order": 11
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "proficiency": 3,
+      "order": 12
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud",
+      "proficiency": 3,
+      "order": 13
+    },
+    {
+      "name": "Networking",
+      "category": "IT",
+      "proficiency": 4,
+      "order": 14
+    },
+    {
+      "name": "Cybersecurity",
+      "category": "Security",
+      "proficiency": 3,
+      "order": 15
+    }
+  ],
+  "videos": [],
+  "shorts": [],
+  "memories": [
+    {
+      "imagePath": "assets/images/eslam.jpg",
+      "title": "Memory 1",
+      "isVertical": false,
+      "order": 0
+    },
+    {
+      "imagePath": "assets/images/placeholder.jpg",
+      "title": "Memory 2",
+      "isVertical": false,
+      "order": 0
+    }
+  ],
+  "clients": [
+    {
+      "name": "Aziz",
+      "role": "Client, Mostaql",
+      "feedback": "يعطيه العافيه تعاملت معه وطبق الي ابغاه بالضبط .. شخص متعاون وسريع الرد ماقصر معي بكل شي / سلمني المشروع بوقت قياسي",
+      "rating": 5,
+      "order": 0
+    },
+    {
+      "name": "OSama",
+      "role": "Founder, Startup INOUT.",
+      "feedback": "Highly recommended! They built a professional and responsive application for our business perfectly tailored to our requirements.",
+      "rating": 5,
+      "order": 1
+    }
+  ],
+  "appPreviews": [],
+  "awards": [
+    {
+      "title": "ITDS",
+      "issuer": "Faculty of Computers and Information, Mansoura University",
+      "date": "2018",
+      "description": "- Awarded by the Faculty of Computers and Information, Mansoura University.\n- In recognition of active and positive participation in the **Second Forum for IT Developers**.\n- Held from 18 to 22 March, 2018.\n",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135692.png",
+      "link": "https://drive.google.com/file/d/1fZve4BswvlE9BpFS2toqvmgxuLxBZBd-/view?usp=sharing",
+      "order": 0
+    },
+    {
+      "title": "Social Media Specialist - CIS Student Activity",
+      "issuer": "CIS",
+      "date": "2022",
+      "description": "- Served as the Social Media Specialist for the CIS (Computers and Information Society) student activity at the Faculty of Computers and Information, Mansoura University.\n- Responsibilities included planning and managing digital campaigns, creating engaging content, growing social media presence, and covering events and technical sessions.\n- Duration: January 2017 - January 2020.\n",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
+      "link": "",
+      "order": 1
+    },
+    {
+      "title": "Certificate of Appreciation for Honorable Appearance and Military Discipline",
+      "issuer": "Aswan Military Hospital",
+      "date": "2024",
+      "description": "Aswan Military Hospital certifies that Lieutenant (Reserves) Eslam Fares Ismail is commended for his honorable appearance, military discipline, and high-level, distinguished commitment to work. We wish him the best always, and God is the grantor of success.",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
+      "link": "https://drive.google.com/file/d/1dA-KfdlRKyD-2hDpA8SHf-7J0TI0U67U/view?usp=drive_link",
+      "order": 2
+    }
+  ]
+}

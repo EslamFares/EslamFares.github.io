@@ -1,195 +1,46 @@
 <!DOCTYPE html>
 <html>
-
 <head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
   <base href="/">
+
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="Eslam Fares Portfolio">
+  <meta name="description" content="A new Flutter project.">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Eslam Fares">
+  <meta name="apple-mobile-web-app-title" content="eslam_elazab_portfolio">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>Eslam Fares</title>
+  <title>eslam_elazab_portfolio</title>
   <link rel="manifest" href="manifest.json">
-
-  <!-- Lordicon animation loader -->
-  <script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
-
-  <style>
-    html {
-      background: #F4F4EF;
-      height: 100%;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      min-height: 100vh;
-      background-color: #F4F4EF;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    /* Main splash container - column layout */
-    #splash-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      width: 100%;
-      text-align: center;
-      gap: 20px;
-    }
-
-    /* Splash image styles */
-    .splash-image {
-      max-width: 200px;
-      max-height: 200px;
-      object-fit: contain;
-      /* Apply green tint to match #C7D3B6 color */
-      filter: brightness(0) saturate(100%) invert(82%) sepia(18%) saturate(348%) hue-rotate(64deg) brightness(93%) contrast(90%);
-    }
-
-    /* Lordicon container */
-    .lordicon-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    /* Loading text styles */
-    .loading-label {
-      font-size: 18px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      color: #333;
-      animation: fade 1.5s ease-in-out infinite;
-      margin: 0;
-    }
-
-    @keyframes fade {
-
-      0%,
-      100% {
-        opacity: 1;
-      }
-
-      50% {
-        opacity: 0.3;
-      }
-    }
-
-    /* Responsive design */
-    @media (max-width: 768px) {
-      .splash-image {
-        max-width: 150px;
-        max-height: 150px;
-      }
-
-      .loading-label {
-        font-size: 16px;
-      }
-
-      #splash-container {
-        gap: 15px;
-        padding: 20px;
-      }
-    }
-
-    @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #F4F4EF;
-      }
-
-      .loading-label {
-        color: #333;
-      }
-    }
-  </style>
-
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
 </head>
-
 <body>
-  <!-- Main Splash Container with Column Layout -->
-  <div id="splash-container">
-    <!-- 1. Splash Image at Top -->
-    <picture class="splash-image-container">
-      <source
-        srcset="splash/img/light-1x.png 1x, splash/img/light-2x.png 2x, splash/img/light-3x.png 3x, splash/img/light-4x.png 4x"
-        media="(prefers-color-scheme: light)">
-      <source
-        srcset="splash/img/dark-1x.png 1x, splash/img/dark-2x.png 2x, splash/img/dark-3x.png 3x, splash/img/dark-4x.png 4x"
-        media="(prefers-color-scheme: dark)">
-      <img class="splash-image" aria-hidden="true" src="splash/img/light-1x.png" alt="">
-    </picture>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
 
-    <!-- 2. Lordicon in Middle -->
-    <div class="lordicon-container">
-      <lord-icon src="https://cdn.lordicon.com/kikjlzqr.json" trigger="loop"
-        colors="primary:#C7D3B6,secondary:#C7D3B6,tertiary:#C7D3B6" style="width:150px;height:150px">
-      </lord-icon>
-    </div>
-
-    <!-- 3. Loading Text at Bottom -->
-    <p class="loading-label" id="loading-text">Loading...⏳</p>
-  </div>
-
-  <!-- Flutter Init Script -->
-  <script src="https://unpkg.com/canvaskit-wasm@0.37.1/bin/canvaskit.js"></script>
-  <link rel="preload" href="https://unpkg.com/canvaskit-wasm@0.37.1/bin/canvaskit.wasm" as="fetch"
-    crossorigin="anonymous">
-
-  <script src="flutter_bootstrap.js" async=""></script>
-
-  <script>
-    // Splash fun text cycle
-    const texts = [
-      "Warming up the pixels... 🎨",
-      "Spinning up some magic... ✨",
-      "Just a moment... making things awesome! ⏳",
-      "Summoning code elves... 🧝‍♂️",
-      "Optimizing awesomeness... 🚀",
-      "Your experience is brewing... ☕",
-      "Fluttering into position... 🦋",
-      "Chasing bugs out the door... 🪲",
-      "Getting things ready for you... 🛠️",
-      "Syncing with the creativity server... 🎯",
-      "Eslam Fares Portfolio 👨‍💻"
-    ];
-    let index = 0;
-    const label = document.getElementById("loading-text");
-
-    setInterval(() => {
-      index = (index + 1) % texts.length;
-      label.innerText = texts[index];
-    }, 2000);
-
-    // Flutter app loader
-    window.addEventListener('load', function () {
-      const splashContainer = document.getElementById("splash-container");
-
-      const flutterLoader = new FlutterLoader();
-      flutterLoader.load({
-        serviceWorker: {
-          serviceWorkerVersion: null,
-        },
-      }).then((engineInitializer) => {
-        return engineInitializer.initializeEngine();
-      }).then((appRunner) => {
-        splashContainer.remove(); // Hide splash
-        appRunner.runApp();
-      });
-    });
-  </script>
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script src="flutter_bootstrap.js" async></script>
 </body>
-
 </html>
